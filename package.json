@@ -43,6 +43,8 @@
     "cheerio": "1.0.0",
      "aptoide-scraper": "1.0.1",
     "@sl-code-lords/movie-api": "1.0.0",
-    "mongoose": "8.6.3"
+    "@mrnima/tiktok-downloader": "1.0.0",
+    "@mrnima/facebook-downloader": "1.0.0",
+    "gifted-dls": "1.2.2"
   }
 }
