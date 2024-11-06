@@ -21,7 +21,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "add your session_id here",
+SESSION_ID: process.env.SESSION_ID || "ANJU-MD=vN0nAbYC#2jh77B9WWyJ1UskOlWNs4fyx8oxX1vR6JuGIIK6HjHs",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://raw.githubusercontent.com/Mrrashmika/Database/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
 PREFIX: process.env.PREFIX || ".",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
