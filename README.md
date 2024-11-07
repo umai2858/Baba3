@@ -8,6 +8,7 @@
 </p>
     <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO-DESIGNER-NIKO-PAMIYA-red.svg?style=for-the-badge&logo=github"></a>
 
 ### Please Read !
 Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
