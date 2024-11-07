@@ -8,7 +8,17 @@
 </p>
     <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO-DESIGNER-NIKO-PAMIYA-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO_DESIGNER-NIKO_PAMIYA-red.svg?style=for-the-badge&logo=github"></a>
+
+<a href = ""><img alt="GAMING RASH" src="https://img.shields.io/youtube/channel/subscribers/UChrUGbOqQ6BZUAAsffJPPsw" target="_blank" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/Mrrashmika?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrrashmika?color=green&style=flat-square"></a>
+<a href="https://github.com/Mrrashmika/Queen_Anju-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mrrashmika/Queen_Anju-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/Mrrashmika/Queen_Anju-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mrrashmika/Queen_Anju-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Mrrashmika/Queen_Anju-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mrrashmika/Queen_Anju-MD?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Mrrashmika/Queen_Anju-MD"><img title="Size" src="https://img.shields.io/github/repo-size/Mrrashmika/Queen_Anju-MD?style=flat-square&color=darkred"></a>
+<a href="https://github.com/Mrrashmika/Queen_Anju-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 
 ### Please Read !
 Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
