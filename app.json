@@ -9,13 +9,78 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true
-    },  
+    },
+    "PREFIX": {
+      "description": "Bot command prefix",
+      "required": true
+    },
+    "AUTO_READ_STATUS": {
+      "description": "Enable or disable auto read status",
+      "required": true
+    },
+    "MODE": {
+      "description": "Bot mode (public or private)",
+      "required": true
+    },
+    "BOT_NUMBER": {
+      "description": "Bot's WhatsApp number",
+      "required": true
+    },
+    "OWNER_REACT": {
+      "description": "Emoji for owner reaction",
+      "required": true
+    },
+    "READ_CMD": {
+      "description": "Enable or disable read command",
+      "required": true
+    },
+    "AUTO_VOICE": {
+      "description": "Enable or disable auto voice messages",
+      "required": true
+    },
+    "AUTO_STICKER": {
+      "description": "Enable or disable auto sticker generation",
+      "required": true
+    },
+    "AUTO_REPLY": {
+      "description": "Enable or disable auto reply",
+      "required": true
+    },
+    "AUTO_REACT": {
+      "description": "Enable or disable auto reaction to messages",
+      "required": true
+    },
+    "WELCOME": {
+      "description": "Enable or disable welcome message",
+      "required": true
+    },
+    "ANTI_BAD": {
+      "description": "Enable or disable anti-bad word filter",
+      "required": true
+    },
+    "ANTI_BOT": {
+      "description": "Enable or disable anti-bot feature",
+      "required": true
+    },
+    "ANTI_LINK": {
+      "description": "Enable or disable anti-link feature",
+      "required": true
+    },
+    "ALLWAYS_ONLINE": {
+      "description": "Keep the bot always online",
+      "required": true
+    },
+    "MOROCCO_BLOCK": {
+      "description": "Block Moroccan users",
+      "required": true
+    }
+  },
 
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
 
-     "buildpacks": [
-        {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-        }
-     ],
   "stack": "heroku-24"
 }
