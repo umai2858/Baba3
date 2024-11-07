@@ -38,6 +38,6 @@ WELCOME: process.env.WELCOME || "false",  //To turn on or off welcome msg and go
 ANTI_BAD: process.env.ANTI_BAD || "true",
 ANTI_BOT: process.env.ANTI_BOT || "true",
 ANTI_LINK: process.env.ANTI_LINK || "true",
-ALLWAYS_ONLINE: process.env.ALLWAYS_ONLINE || "true",
+ALLWAYS_ONLINE: process.env.ALLWAYS_ONLINE || "false",
 MOROCCO_BLOCK: process.env.MOROCCO_BLOCK || "true", // +212 number block..
 };
