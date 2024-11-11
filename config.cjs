@@ -1,5 +1,5 @@
 module.exports = {
-  "SESSION_ID": "add your session id here",
+  "SESSION_ID": "ANJU-MD=GZkhwTCY#cHEoMPmtAGmOTfAaXhh3dnIk7Br6DhWyKIuqXJ7im7s",
   "ALIVE_IMG": "https://raw.githubusercontent.com/Mrrashmika/Database/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
