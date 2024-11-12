@@ -40,7 +40,7 @@ And Subscribe GAMING RASH and give one star for queen anju.
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
        </a>
    </p>
- - _Open config.js on your forked repository. and put `SESSION_ID` and change other settings you need._
+ - _Open session.js on your forked repository. and put `SESSION_ID` to it._
  - _Deploy using your host._
    </br>
 
