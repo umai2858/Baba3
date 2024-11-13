@@ -18,7 +18,7 @@ module.exports = {
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
   "OWNER_NAME": "MR JANIYA",
-  "NEWS_JID": "94717775628@s.whatsapp.net",
+  "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
   "ANTI_CALL": true
