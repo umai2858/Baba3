@@ -1,6 +1,5 @@
 module.exports = {
-  "SESSION_ID": "add your session id here",
-  "ALIVE_IMG": "https://raw.githubusercontent.com/Mrrashmika/Database/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
+  "ALIVE_IMG": "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
@@ -16,5 +15,11 @@ module.exports = {
   "ANTI_BOT": true,
   "ANTI_LINK": true,
   "ALLWAYS_ONLINE": true,
-  "MOROCCO_BLOCK": true
+  "MOROCCO_BLOCK": true,
+  "BTN_MSG": false,
+  "OWNER_NAME": "MR JANIYA",
+  "NEWS_JID": "94717775628@s.whatsapp.net",
+  "AUTO_TYPING": false,
+  "AUTO_RECORDING": true,
+  "ANTI_CALL": true
 };
